@@ -1,0 +1,2 @@
+# Implementation-of-KNN-Classifier-for-Sequence-Prediction---Azure-Cloud-Implementation
+Implementing the k-nearest neighbor (KNN) machine learning algorithm for predicting outcome variables based on input variables. Leveraging the capabilities of Hierarchical Temporal Memory (HTM) for learning complex temporal patterns, our study focuses on predicting sequences of random sequences between 0-48 floating numbers.
