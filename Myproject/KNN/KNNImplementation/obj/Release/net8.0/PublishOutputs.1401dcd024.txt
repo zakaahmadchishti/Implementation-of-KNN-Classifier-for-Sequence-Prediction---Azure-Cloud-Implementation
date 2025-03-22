@@ -1,0 +1,17 @@
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/KNNImplementation
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/KNNImplementation.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/KNNImplementation.deps.json
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/KNNImplementation.runtimeconfig.json
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/KNNImplementation.pdb
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/Azure.Core.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/Azure.Storage.Blobs.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/Azure.Storage.Blobs.Batch.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/Azure.Storage.Common.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/NeoCortexApi.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/NeoCortexArrayLib.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/NeoCortexEntities.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/System.ClientModel.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/System.IO.Hashing.dll
+/Users/zakaahmedchishti/Documents/se-cloud-2023-2024/Myproject/KNN/KNNImplementation/bin/Release/net8.0/publish/System.Memory.Data.dll
